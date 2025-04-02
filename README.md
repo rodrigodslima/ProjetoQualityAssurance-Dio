@@ -1,4 +1,4 @@
-DIO | Projeto Quality Assurance
+DIO | Project Quality Assurance
 
 O que foi pedido no desafio de projeto?  
 [Site do projeto](https://www.saucedemo.com/v1/)

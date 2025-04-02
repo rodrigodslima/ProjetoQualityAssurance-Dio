@@ -4,9 +4,9 @@ O que foi pedido no desafio de projeto?
 [Site do projeto](https://www.saucedemo.com/v1/)
 
 ## 📚 Documentação
-✔ A documentação sugerida no desafio de projeto será entregue a partir de um repositório pessoal de cada aluno no Github.
+✅ A documentação sugerida no desafio de projeto será entregue a partir de um repositório pessoal de cada aluno no Github.
 
-✔ As seguintes documentações deverão ser entreques em PDF: 
+✅ As seguintes documentações deverão ser entreques em PDF: 
 
 ➖ Um plano de fluxo de trabalho do ciclo de vida do bug conforme explicado.
 

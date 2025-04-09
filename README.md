@@ -21,7 +21,7 @@ O que foi pedido no desafio de projeto?
 ## 💼 O que foi feito? 
 
 - Plano de fluxo de trabalho
-- 9 User Story
+- 9 Users Stories
 - 1 Mind-map com 1 User Story
 - 14 casos de testes com 4 step-by-step e 10 em BDD
 - Todos feitos automatizados com Cypress.
